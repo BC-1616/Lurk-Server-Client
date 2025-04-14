@@ -1,12 +1,12 @@
 # 🖥️ Multi-User Client-Server System (C++)
 
-A fully functional multi-user client-server application written in C++. This system enables real-time communication between multiple clients through a centralized server, using socket programming and multi-threading.
+A class project focused on developing a client-server architecture in C++ to support a retro, 80s-style text-based video game. The system allows multiple users to connect and interact with the game environment in real time, simulating classic command-line gameplay.
 
 ---
 
 ## 📚 Description
 
-This project simulates a networked environment where multiple clients can connect to a server, send and receive messages, and interact concurrently. It's designed for learning purposes and demonstrates fundamental networking concepts such as:
+This project emphasized network programming, socket communication, and the fundamentals of multiplayer game architecture in a low-level programming environment. It's designed for learning purposes and demonstrates fundamental networking concepts such as:
 
 - Socket communication (TCP/IP)
 - Multi-threaded client handling
